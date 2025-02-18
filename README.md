@@ -6,7 +6,6 @@
 - My main interest is in Electronics for Computer Architures & CPU/GPU Architectures.
 ---
 - My current research topics are:
-   * Formal Verification.
    * **CPU/FPGA**.
    * **HW/SW co-design**.
    * **SoCs and NoCs**.
@@ -14,11 +13,14 @@
    * Neuromorphic Analog circuits.
    * HLS.
    * LLMs.
+   * Place&Route Optimisation.
 - Older research topics:
+   * Formal Verification.
    * **Integrated Photonics, Silicon Photonics, Photonics Communication**.
    * **Semiconductor Physics**.
    * MEMS & Circuits around MEMS.
    * Image Processing & Signal Processing.
+   * Accelerated Image Processing Algorithm with GPUs.
    * **Lithography**.
    * **Nanoscale electronics**.
 ---
