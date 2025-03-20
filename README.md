@@ -4,6 +4,7 @@
 - I am also know as Naoki Takei.
 - I'm a tech enthuasiast, ranging from Solid State physics, Microelectronics to programming.
 - My main interest is in Electronics for Computer Architures & CPU/GPU Architectures.
+- I also write some courses on Electrical Engineering topics (ie Analog Electronics, Semiconductor Physics).
 ---
 - My current research topics are:
    * **CPU/FPGA**.
@@ -14,6 +15,7 @@
    * HLS.
    * LLMs.
    * Place&Route Optimisation.
+   * BCI.
 - Older research topics:
    * Formal Verification.
    * **Integrated Photonics, Silicon Photonics, Photonics Communication**.
