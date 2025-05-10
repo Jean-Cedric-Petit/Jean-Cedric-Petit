@@ -13,6 +13,7 @@
    * **VLSI**.
    * HLS.
    * LLMs.
+   * Power Electronics & Batteries.
 
 - Older research topics (Ranked on my interest):
    * 1)**Nanoscale electronics**.
