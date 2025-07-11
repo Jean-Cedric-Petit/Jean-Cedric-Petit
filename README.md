@@ -13,9 +13,10 @@
    * **VLSI**.
    * HLS.
    * LLMs.
+   * Graphs & Geometry.
    * Power Electronics & Batteries.
 
-- Older research topics (Ranked on my interest):
+- Older research topics (Ranked by my interest):
    * 1)**Nanoscale electronics**.
    * 2)**Lithography**.
    * 3)**Semiconductor Physics**.
@@ -28,5 +29,6 @@
    * 10)Accelerated Image Processing Algorithm with GPUs.
    * 11)Image Processing & Signal Processing.
    * 12)Robotics.
+   * 13)Linear & Non-Linear Programming.
 ---
 - You will find here some old and random projects that I do on my free time (and some random idea).
