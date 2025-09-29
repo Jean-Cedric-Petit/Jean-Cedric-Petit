@@ -11,24 +11,24 @@
    * **HW/SW co-design**.
    * **SoCs and NoCs**.
    * **VLSI**.
-   * HLS.
-   * LLMs.
-   * Graphs & Geometry.
    * Power Electronics & Batteries.
 
 - Older research topics (Ranked by my interest):
    * 1)**Nanoscale electronics**.
-   * 2)**Lithography**.
-   * 3)**Semiconductor Physics**.
-   * 4)**Integrated Photonics, Silicon Photonics, Photonics Communication**.
-   * 5)Neuromorphic Analog circuits.
-   * 6)BCI.
-   * 7)MEMS & Circuits around MEMS.
-   * 8)Place&Route Optimisation.
-   * 9)Formal Verification.
-   * 10)Accelerated Image Processing Algorithm with GPUs.
-   * 11)Image Processing & Signal Processing.
-   * 12)Robotics.
-   * 13)Linear & Non-Linear Programming.
+   * 2)HLS (High Level Synthesis).
+   * 3)**Lithography**.
+   * 4)**Semiconductor Physics**.
+   * 5)**Integrated Photonics, Silicon Photonics, Photonics Communication**.
+   * 6)Neuromorphic Analog circuits.
+   * 7)BCI.
+   * 8)MEMS & Circuits around MEMS.
+   * 9)Place&Route Optimisation.
+   * 10)Formal Verification.
+   * 11)Accelerated Image Processing Algorithm with GPUs.
+   * 12)Image Processing & Signal Processing.
+   * 13)Robotics.
+   * 14)Graphs & Geometry.
+   * 15)Linear & Non-Linear Programming.
+   * 16)LLMs.
 ---
 - You will find here some old and random projects that I do on my free time (and some random idea).
