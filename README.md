@@ -4,7 +4,7 @@
 - I am also know as Naoki Takei.
 - I'm a tech enthuasiast, studying topics ranging from Solid State physics, Microelectronics to programming.
 - My main interest is in Electronics for Computer Architures & CPU/GPU Architectures.
-- I also write some courses on Electrical Engineering topics (ie Analog Electronics, Digital Electronics, Semiconductor Physics and Computer Architecture).
+- I also wrote some courses on Electrical Engineering topics (ie Analog Electronics, Digital Electronics, Semiconductor Physics and Computer Architecture).
 ---
 - My current research topics are:
    * **CPU/FPGA**.
@@ -32,5 +32,21 @@
    * 15)Graphs & Geometry.
    * 16)Linear & Non-Linear Programming.
    * 17)LLMs.
+---
+- Some Projects I have worked on:
+  * Generating Electrical Systems with LLMs.
+  * Measuring Power usage in Real-Time for drones & robots.
+  * Steganography: Hidding informations in binaries.
+  * LiFi: Transmitting data with IR-lasers.
+  * Continous Learning from Embedded AI.
+  * Analog SNN for detecting EM wave direction without heavy computation.
+  * RISC-V core Verification using SVA.
+  * Performance Analysis of the Nios 2 CPU.
+  * Design,Simulation and Analysis of an embedded system with many CPUs onboard.
+  * Embedded Real Time Image processing for robots.
+  * AI Accelerators and their architectures.
+  * AFM,STM,TEB analysis of semiconductors.
+  * PhotoLithography of ICs in a clean room.
+
 ---
 - You will find here some old and random projects that I do on my free time (and some random idea).
