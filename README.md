@@ -5,6 +5,7 @@
 - I'm a tech enthuasiast, studying topics ranging from Solid State physics, Microelectronics to programming.
 - My main interest is in Electronics for Computer Architures & CPU/GPU Architectures.
 - I also wrote some courses on Electrical Engineering topics (ie Analog Electronics, Digital Electronics, Semiconductor Physics and Computer Architecture).
+- Please do reach out via email if you need anything from me!
 ---
 - My current research topics are:
    * **CPU/FPGA**.
@@ -38,8 +39,8 @@
   * Measuring Power usage in Real-Time for drones & robots.
   * Steganography: Hidding informations in binaries.
   * LiFi: Transmitting data with IR-lasers.
-  * Continous Learning from Embedded AI.
-  * Analog SNN for detecting EM wave direction without heavy computation.
+  * Continous Learning for Embedded AI on STM.
+  * Analog SNNs for detecting EM wave direction without heavy computation.
   * RISC-V core Verification using SVA.
   * Performance Analysis of the Nios 2 CPU.
   * Design,Simulation and Analysis of an embedded system with many CPUs onboard.
@@ -47,6 +48,7 @@
   * AI Accelerators and their architectures.
   * AFM,STM,TEB analysis of semiconductors.
   * PhotoLithography of ICs in a clean room.
+  * Creating a library for Benchmarking SoC capabilities.
 
 ---
 - You will find here some old and random projects that I do on my free time (and some random idea).
