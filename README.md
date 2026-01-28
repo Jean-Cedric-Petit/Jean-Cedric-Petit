@@ -15,7 +15,7 @@
    * **Multicore & SIMD Execution**.
    * **GPU Architecture**.
 
-- Older research topics (Ranked by my interest):
+- Older research topics that I still keep an eye on (Ranked by my interest):
    * 1)**Nanoscale electronics**.
    * 2)HLS (High Level Synthesis).
    * 3)**Lithography**.
